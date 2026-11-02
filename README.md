@@ -122,7 +122,8 @@ def plot_predictions(index):
 <img width="554" height="396" alt="WhatsApp Image 2026-11-02 at 10 48 13 AM" src="https://github.com/user-attachments/assets/86ba4e4c-94f9-4d9d-82c1-235e6347efb6" />
 
 <img width="554" height="284" alt="WhatsApp Image 2026-11-02 at 10 48 25 AM" src="https://github.com/user-attachments/assets/08860985-068e-4402-9c63-faa2a84c3074" />
-   ##  RESULT 
+
+##  RESULT 
 Thus successfully implemented and trained a CNN to recognize objects across ten distinct categories using the CIFAR 10 dataset.
 
 
