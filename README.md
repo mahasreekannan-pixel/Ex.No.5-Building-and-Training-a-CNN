@@ -129,6 +129,8 @@ Thus successfully implemented and trained a CNN to recognize objects across ten 
 
 
 
+##  RESULT 
+Thus successfully implemented and trained a CNN to recognize objects across ten distinct categories using the CIFAR 10 dataset.
 
 
 
