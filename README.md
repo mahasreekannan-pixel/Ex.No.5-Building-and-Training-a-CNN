@@ -1,6 +1,7 @@
 # Ex.No.5-Building-and-Training-a-CNN
 ## Building and Training a CNN: Use a framework like TensorFlow or PyTorch to build and train a CNN
-## Aim :To build and train a CNN 
+## Aim 
+To build and train a CNN 
 
 ## Procedure
 Step 1: Import Libraries
@@ -112,17 +113,16 @@ def plot_predictions(index):
     plt.axis('off')
     plt.show()
 
-for i in range(5):
-    plot_predictions(i)
-    
-    <img width="552" height="69" alt="image" src="https://github.com/user-attachments/assets/0febb5dd-2c8b-406e-9298-e518f58ea23b" />
-    <img width="504" height="504" alt="image" src="https://github.com/user-attachments/assets/f97a0605-a07a-48aa-8909-908744ffb565" />
-    <img width="327" height="34" alt="image" src="https://github.com/user-attachments/assets/e266bb30-ee77-4765-8e08-091237edb842" />
-    <img width="554" height="168" alt="image" src="https://github.com/user-attachments/assets/e45f8b04-4822-410d-b7c4-1a5d9d6cfdca" />
-    <img width="554" height="396" alt="image" src="https://github.com/user-attachments/assets/81232b25-568e-4453-af4a-daa8ecb71eae" />
-    <img width="554" height="299" alt="image" src="https://github.com/user-attachments/assets/d91e0a8a-5280-4886-8f58-2533d33104f2" />
-    <img width="554" height="284" alt="image" src="https://github.com/user-attachments/assets/be9212f4-4e6e-4f71-b3f8-43a953665c83" />
-   ##  Conclusion:
+<img width="552" height="69" alt="WhatsApp Image 2026-11-02 at 10 47 36 AM" src="https://github.com/user-attachments/assets/b90c6011-dcad-47aa-89c6-63ac7c157465" />
+
+<img width="504" height="504" alt="WhatsApp Image 2026-11-02 at 10 47 41 AM" src="https://github.com/user-attachments/assets/20bb8e57-5fa3-471b-ab15-e0a5d97167be" />
+
+<img width="554" height="168" alt="WhatsApp Image 2026-11-02 at 10 48 00 AM" src="https://github.com/user-attachments/assets/399ff01d-6bf3-45d4-bcae-4c9459c2d630" />
+
+<img width="554" height="396" alt="WhatsApp Image 2026-11-02 at 10 48 13 AM" src="https://github.com/user-attachments/assets/86ba4e4c-94f9-4d9d-82c1-235e6347efb6" />
+
+<img width="554" height="284" alt="WhatsApp Image 2026-11-02 at 10 48 25 AM" src="https://github.com/user-attachments/assets/08860985-068e-4402-9c63-faa2a84c3074" />
+   ##  RESULT 
 Thus successfully implemented and trained a CNN to recognize objects across ten distinct categories using the CIFAR 10 dataset.
 
 
